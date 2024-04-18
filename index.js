@@ -1,4 +1,4 @@
-// script.js
+// index.js
 
 document.addEventListener('DOMContentLoaded', function () {
     fetch('https://burgers-hub.p.rapidapi.com/burgers')
